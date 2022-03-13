@@ -1,2 +1,2 @@
-# Studdy-Buddy-templete-
-HTML,CSS,JS user interface 
+#  https://mlungisi981020.github.io/mysiteone/index.html
+mysiteone
